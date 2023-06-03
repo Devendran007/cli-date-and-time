@@ -1,0 +1,5 @@
+D:\DOT NET CLASS\ASP.NET\A2 PART ONE\Cli_App\Cli_App\bin\Debug\Cli_App.exe.config
+D:\DOT NET CLASS\ASP.NET\A2 PART ONE\Cli_App\Cli_App\bin\Debug\Cli_App.exe
+D:\DOT NET CLASS\ASP.NET\A2 PART ONE\Cli_App\Cli_App\bin\Debug\Cli_App.pdb
+D:\DOT NET CLASS\ASP.NET\A2 PART ONE\Cli_App\Cli_App\obj\Debug\Cli_App.exe
+D:\DOT NET CLASS\ASP.NET\A2 PART ONE\Cli_App\Cli_App\obj\Debug\Cli_App.pdb
